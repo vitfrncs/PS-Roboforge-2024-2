@@ -33,7 +33,7 @@ def mulPrimos (l):
     return produto
 
 l = listaAleatoria()
-print("Lista com num geredos aleatoriamente: " + str(l))
+print("Lista com num gerados aleatoriamente: " + str(l))
 print("Produto dos números primos da lista: " + str(mulPrimos(l)))
 
 
